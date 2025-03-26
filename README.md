@@ -1,10 +1,10 @@
-# Hi there! 👋
-
-I'm Christian J. Tai Udovicic (he/him), a planetary data scientist who's passionate about open source software development.
+# Hi I'm Christian J. Tai Udovicic (he/him) 👋
 
 ## About Me
 
-I'm a Canadian 🇨🇦 based in Honolulu, HI 🌴 and I focus on developing open-source tools and resources to advance planetary science research. My work aims to enhance the accessibility and reproducibility of scientific analyses and I also volunteer as a board member of [OpenPlanetary](openplanetary.org).
+🪐 I'm a planetary (data) scientist who's passionate about open source software development.
+🍁 I'm a Canadian based in 🌈🌴 Honolulu, HI where I work on lunar remote sensing, modeling, and developing open-source tools to advance planetary science research. 
+🌟 I also volunteer as a board member of [OpenPlanetary](openplanetary.org) where I help connect folks from around the world who are interested in open approaches to planetary science.
 
 ## Some Projects
 
